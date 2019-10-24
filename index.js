@@ -19,4 +19,4 @@ app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "hjs");
 
 app.listen(5000);
-console.log("Server running on http://localhost:5000 ");
+console.log("Server running on http://localhost:5000 hello world");
